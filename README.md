@@ -116,3 +116,4 @@ We can now visit the app in our browser:
 ### Next steps
 
 * [Account Manager Plugin](https://github.com/drewbug/heroku-trac/wiki/Account-Manager-Plugin)
+* [Empty Wiki](https://github.com/drewbug/heroku-trac/wiki/Empty-Wiki)
