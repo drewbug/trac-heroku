@@ -112,3 +112,7 @@ Let's ensure we have one dyno running the `web` process type:
 We can now visit the app in our browser:
 
     $ heroku open
+
+### Next steps
+
+* [Account Manager Plugin](https://github.com/drewbug/heroku-trac/wiki/Account-Manager-Plugin)
