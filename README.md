@@ -115,6 +115,6 @@ We can now visit the app in our browser:
 
 ### Next steps
 
-* [Account Manager Plugin](https://github.com/drewbug/heroku-trac/wiki/Account-Manager-Plugin)
-* [Empty Wiki](https://github.com/drewbug/heroku-trac/wiki/Empty-Wiki)
-* [Disable Attachments](https://github.com/drewbug/heroku-trac/wiki/Disable-Attachments)
+* [Account Manager Plugin](https://github.com/onheroku/trac/wiki/Account-Manager-Plugin)
+* [Empty Wiki](https://github.com/onheroku/trac/wiki/Empty-Wiki)
+* [Disable Attachments](https://github.com/onheroku/trac/wiki/Disable-Attachments)
